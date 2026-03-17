@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    color: #636363;
+    color: #4A4A4A;
     background: #567258;
     padding: 20px;
     font-size: .95rem;
@@ -25,4 +25,9 @@ a:visited {
 
 .card {
     background-color: #D1E5CC;
+    max-height: 70vh;
+}
+
+.text-box {
+    background-color: #AFC3A2;;
 }
